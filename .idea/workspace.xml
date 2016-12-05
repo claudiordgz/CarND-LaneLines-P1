@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e3bac2f-403d-4c01-83b2-bccc015d5fcc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/P1.ipynb" afterPath="$PROJECT_DIR$/P1.ipynb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0001.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0002.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0003.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0004.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0005.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0006.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0007.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0008.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0009.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0010.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0011.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images/challenge_0012.jpeg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
